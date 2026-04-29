@@ -1,4 +1,4 @@
-# Extension Restarter
+# Extension Restarter (VS Code Family Extension)
 
 <p align="center">
   <img src="icons/logo.png" alt="Extension Restarter" width="128"/>
